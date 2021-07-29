@@ -1,0 +1,33 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header  */
+.ar-header-color{
+    background-color: #264653;
+}
+/* button custom color  */
+.ar-custom-color{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+/* bg-modal-color  */
+.bg-modal-color{
+    background: linear-gradient(170.41deg, #577684 -10.89%, #264653 92.77%);
+}
+
+/* taxt custom color */
+.ar-custom-color-2{
+    color: #E76751;
+}
+/* grayscale style  */
+.grayscale{
+    filter: grayscale(100%);
+}
+/* .grayscale:hover{
+    filter: grayscale(0%);
+} */
+.pading{
+    padding: 30%;
+}
+
